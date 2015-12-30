@@ -1,6 +1,6 @@
 # ToolbatIndicator
-
 [![Release](https://img.shields.io/github/release/nekocode/ToolbarIndicator.svg?label=Jitpack)](https://jitpack.io/#nekocode/ToolbarIndicator)
+Insprite and modified from [CircleIndicator](https://github.com/ongakuer/CircleIndicator).
 
 ## Preview
 ![preview](art/preview.gif)
@@ -19,3 +19,11 @@ dependencies {
     compile 'com.github.nekocode:ToolbarIndicator:{latest version}'
 }
 ```
+
+Set the target ViewPager for ToolbarIndicator:
+```
+ToolbarIndicator toolbarIndicator = (ToolbarIndicator) this.findViewById(R.id.indicator);
+toolbarIndicator.setViewPager(viewPager);
+```
+
+The ToolbarIndicator get titles from FragmentPagerAdapter's getPageTitle function, for more detail you can check about the **[sample project](https://github.com/nekocode/ToolbarIndicator/tree/master/sample)**.
