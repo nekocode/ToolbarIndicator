@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ToolbarIndicator">
+        <attr name="ti_width" format="dimension"/>
+        <attr name="ti_height" format="dimension"/>
+        <attr name="ti_margin" format="dimension"/>
+        <attr name="ti_animator" format="reference"/>
+        <attr name="ti_animator_reverse" format="reference"/>
+        <attr name="ti_drawable" format="reference"/>
+        <attr name="ti_drawable_unselected" format="reference"/>
+    </declare-styleable>
+</resources>
