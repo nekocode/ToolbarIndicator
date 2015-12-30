@@ -2,6 +2,8 @@
 
 [![Release](https://img.shields.io/github/release/nekocode/ToolbarIndicator.svg?label=Jitpack)](https://jitpack.io/#nekocode/ToolbarIndicator)
 
+## Preview
+![preview](art/preview.gif)
 
 ## How to use
 Add the JitPack repository to your build.gradle:
