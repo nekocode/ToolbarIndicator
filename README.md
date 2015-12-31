@@ -16,7 +16,7 @@ repositories {
 Add the dependency:
 ```gradle
 dependencies {
-    compile 'com.github.nekocode:ToolbarIndicator:{latest version}'
+    compile 'com.github.nekocode:ToolbarIndicator:v1.0'
 }
 ```
 
