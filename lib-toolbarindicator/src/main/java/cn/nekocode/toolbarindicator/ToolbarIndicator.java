@@ -155,9 +155,9 @@ public class ToolbarIndicator extends LinearLayout implements OnPageChangeListen
         mAnimationIn.setTarget(currentIndicator);
         mAnimationIn.start();
 
-        View selectedIndicaotr = getChildAt(position);
-        selectedIndicaotr.setBackgroundResource(mIndicatorBackground);
-        mAnimationOut.setTarget(selectedIndicaotr);
+        View selectedIndicator = getChildAt(position);
+        selectedIndicator.setBackgroundResource(mIndicatorBackground);
+        mAnimationOut.setTarget(selectedIndicator);
         mAnimationOut.start();
 
         mCurrentPosition = position;

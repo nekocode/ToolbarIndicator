@@ -1,5 +1,6 @@
 # ToolbarIndicator
-[![Release](https://img.shields.io/github/release/nekocode/ToolbarIndicator.svg?label=Jitpack)](https://jitpack.io/#nekocode/ToolbarIndicator)  
+[![Apache 2.0 License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.html) [![Release](https://img.shields.io/github/release/nekocode/ToolbarIndicator.svg?label=Jitpack)](https://jitpack.io/#nekocode/ToolbarIndicator)  
+
 Inspired from Twitter iOS App and modified from [CircleIndicator](https://github.com/ongakuer/CircleIndicator).
 
 ### Preview
